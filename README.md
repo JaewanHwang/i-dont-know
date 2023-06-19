@@ -3,11 +3,11 @@
 <br>
 
 ## 팀원 소개
-#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>XXX</strong> - BE, 팀장
-#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>XXX</strong> - BE
-#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>XXX</strong> - BE
-#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>XXX</strong> - FE
-#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>XXX</strong> - FE
+#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>이지연</strong> - BE, 팀장
+#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>황재완</strong> - BE
+#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>민하은</strong> - BE
+#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>강병국</strong> - FE
+#### <img src="https://user-images.githubusercontent.com/73813690/194765880-7043b20c-5618-4ba8-9733-7dbecc0692c7.png" width="25" height="25"> <strong>최지원</strong> - FE
 
 <br>
 
